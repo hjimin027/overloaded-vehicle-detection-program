@@ -9,7 +9,7 @@ Open Source Software team project
 
 ### 1) SETTINGS
    
- This program was written in python and our team shared code in google golab environment.  
+ This program was written in python and our team shared code in google colab environment.  
  We used "Detectron2" of facebook, which is object detection model with ballon detection, and modified it to lose code's complexity.  
  And add "easyOCR", text image detection model.
 
