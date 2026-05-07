@@ -1,0 +1,2 @@
+In this version,
+we have an independent application that uses an exported Detectron2 model for overloaded vehicle detection and EasyOCR for Korean license plate recognition. It includes GUI for users to upload images and see the detection and OCR results.
