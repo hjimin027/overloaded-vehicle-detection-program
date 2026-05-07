@@ -11,3 +11,4 @@
 | 4.5 | Fix Directory Error | 2024.06.19 |
 | 5.0 | Fix Error | 2024.06.20 |
 | 6.0 | Visualize Overloaded vehicles and License Plate | 2024.06.20 |
+| 7.0 | Create an Independent Application | 2026.05.07 |
