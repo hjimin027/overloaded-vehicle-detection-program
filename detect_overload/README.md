@@ -9,6 +9,5 @@
 | 3.5 | Fix error | 2024.06.18 |
 | 4.0 | Fix TypeError | 2024.06.19 |
 | 4.5 | Fix Directory Error | 2024.06.19 |
-| 5.0 | Fix ImportError | 2024.06.20 |
-| 5.0 | Fix FileSaveError | 2024.06.20 |
+| 5.0 | Fix Error | 2024.06.20 |
 | 6.0 | Visualize Overloaded vehicles and License Plate | 2024.06.20 |
