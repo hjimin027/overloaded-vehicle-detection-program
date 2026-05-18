@@ -28,9 +28,9 @@ EasyOCR을 통해 해당 차량에 부착된 번호판 정보를 추출함으로
 
 ## ⚙️ Getting Started
 
-우선, Anaconda와 pytorch를 설치해야 한다. 그 다음, [구글 드라이브의 Training data와 Test data](https://drive.google.com/drive/folders/1sjEpVfYICoc9p9XbG2-4ivKQwat6e4cv?usp=drive_link)를 다운받는다.
-
-코드는 [detect_overload 디렉터리의 마지막 버전 파일](detect_overload/version_7.0/overload_final.ipynb)을 다운받는다.
+1. Anaconda와 pytorch를 설치한다.
+2. [구글 드라이브의 Training data와 Test data](https://drive.google.com/drive/folders/1sjEpVfYICoc9p9XbG2-4ivKQwat6e4cv?usp=drive_link)를 다운받는다.
+3. 코드는 [detect_overload 디렉터리의 마지막 버전 파일](detect_overload/version_7.0/overload_final.ipynb)을 다운받는다.
 
 혹은 다음 Colab 링크해서 실행할 수 있다. 
 
