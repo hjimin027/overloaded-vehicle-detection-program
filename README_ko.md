@@ -4,8 +4,6 @@
 
 > Detectron2와 OCR 기술을 활용한 과적 차량 판별 및 정보 추출 프로그램
 
-[프로젝트 이미지]
-
 ## Description
 과적(Overloading)은 화물차에 규정된 적재중량 또는 적재용적을 넘어 화물을 싣는 법률 행위를 말한다.
 
@@ -70,10 +68,13 @@ MyDrive/Data
 ```
 
 ## 💻 Architecture
-이미지
+<img width="720" alt="Overloaded drawio" src="https://github.com/user-attachments/assets/9b10b4f4-bbe9-40d8-b905-4fa7bb321597" />
 
 ## 📸 Result
-페이지 이미지
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/10057632-11d8-414e-b77e-095f5a0c656d" />
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/3b1cdecb-a348-4d51-a75b-d4662ae8c698" />
+
+
 
 ## ⚖️ License
 [Apache 2.0](License)
