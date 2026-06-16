@@ -68,6 +68,9 @@ MyDrive/Data/
 <img width="1002" height="459" alt="Overloaded_EN drawio" src="https://github.com/user-attachments/assets/e69611fd-b1a0-4f94-9f5d-8114c4c0b4d0" />
 
 ## 📸 Result
+<img width="1662" height="385" alt="image" src="https://github.com/user-attachments/assets/ee32cd7e-3fb1-41d0-aaaa-95674f48684f" />
+Result for Detecting overloaded vehicles: AP 75.031
+
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/10057632-11d8-414e-b77e-095f5a0c656d" />
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/3b1cdecb-a348-4d51-a75b-d4662ae8c698" />
 
